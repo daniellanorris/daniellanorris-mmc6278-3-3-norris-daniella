@@ -40,4 +40,5 @@ async function getCityInfo(location) {
   }
 }
 
+
 module.exports = {getJobs, getCityInfo}

@@ -4,7 +4,7 @@
 &nbsp;
 ## Introduction
 
-For this assignment, you will create an application that merges and serves job and city information for users looking to research potential cities they might want to relocate to.
+For this assignment, you will create an application thant merges and serves job and city information for users looking to research potential cities they might want to relocate to.
 
 &nbsp;
 ## Setup
